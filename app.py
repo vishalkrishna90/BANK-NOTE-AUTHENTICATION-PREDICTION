@@ -14,7 +14,7 @@ df = pd.read_csv('https://raw.githubusercontent.com/vishalkrishna90/BANK-NOTE-AU
 
 st.title('BANK NOTE AUTHENTICATION')
 
-st.image('https://github.com/vishalkrishna90/BANK-NOTE-AUTHENTICATION-PREDICTION/blob/main/Images/bank_note.jpg')
+st.image('Images/bank_note.jpg')
 
 var,sek = st.columns(2)
 with var:
