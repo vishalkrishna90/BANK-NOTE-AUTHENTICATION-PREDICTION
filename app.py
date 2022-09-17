@@ -9,7 +9,7 @@ import pickle as pkl
 scaler = pkl.load(open('bna_scaler.pkl','rb'))
 model = pkl.load(open('bna_model.pkl','rb'))
 
-df = pd.read_csv('Clean_BankNote_Authentication.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/vishalkrishna90/BANK-NOTE-AUTHENTICATION-PREDICTION/main/Clean_BankNote_Authentication.csv')
 
 
 st.title('BANK NOTE AUTHENTICATION')
