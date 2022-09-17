@@ -36,6 +36,6 @@ if submit:
     result = model.predict(scale_data)
 
     if result == 0:
-        st.subheader('Note Is Original')
+        st.subheader('Original Note')
     else:
-        st.subheader('Note Is Duplicate')
+        st.subheader('Duplicate Note')
