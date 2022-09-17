@@ -31,7 +31,7 @@ This is a **Bank Note Authentication Prediction** project, in which I tried to b
 - Make Pickle File
 - Create New Enviornment
 - Create Web App With Streamlit
-- Upload All Files In Github repository
+- Upload All Files In Github Repository
 - Deploy Model On Heroku
 
 **Web App Overview**
@@ -194,7 +194,7 @@ In the end, I deployed the model on Heroku, so that anybody can use the web app
 
 ## Deployment Requirement Tools 
 
-![Deploy](https://github.com/vishalkrishna90/BANK-NOTE-AUTHENTICATION-PREDICTION/blob/main/Images/li_im.jpg)
+![Deploy](https://github.com/vishalkrishna90/BANK-NOTE-AUTHENTICATION-PREDICTION/blob/main/Images/st_im.png)
 
  - [Streamlit](https://streamlit.io/)
  - [Github Account](https://github.com/)
