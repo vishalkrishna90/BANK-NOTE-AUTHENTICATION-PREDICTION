@@ -7,6 +7,8 @@ This is a **Bank Note Authentication Prediction** project, in which I tried to b
 
 ![Bank Note Authentication Prediction](https://github.com/vishalkrishna90/BANK-NOTE-AUTHENTICATION-PREDICTION/blob/main/Images/Web_App_1.png)
 
+**Author = Vishal Kumar Mridha**
+
 **Domain = Banking**
 
 **Level = Beginner**
